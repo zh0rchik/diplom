@@ -12,3 +12,6 @@ pip install -r requirements.txt
 ```python
 pip freeze > requirements.txt
 ```
+<hr>
+
+Главные файлы - `март` и `апрель классификация` регрессия и классификация, соответственно
